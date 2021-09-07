@@ -3,7 +3,7 @@ class Currency {
     this.firstCurrency = firstCurrency;
     this.secondCurrency = secondCurrency;
     this.url =
-      "https://v6.exchangerate-api.com/v6/4618898af68859811fa03cbe/latest/";
+      "https://v6.exchangerate-api.com/v6/????????????/latest/";
 
     this.amount = null;
   }
